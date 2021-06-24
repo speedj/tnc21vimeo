@@ -170,10 +170,11 @@ https://player.vimeo.com/video/566589869
 
 
 # 24.6.2021
+....stay tuned
 
 
-
-
+# 25.6.2021
+....stay tuned
 
 
 
