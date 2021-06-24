@@ -169,7 +169,7 @@ Presentation: Network Time Security - The (Winding) Path to Deployment
 https://player.vimeo.com/video/566589869
 
 
-# 23.6.2021
+# 24.6.2021
 
 
 
