@@ -120,6 +120,58 @@ https://player.vimeo.com/video/566109143
 
 # 23.6.2021
 
+Presentation: User experience and network performance monitoring for CNaaS
+https://player.vimeo.com/video/566483945
+
+Presentation: The strategic role of the NREN in the age of AI. How SURF supports its members in leveraging AI
+https://player.vimeo.com/video/566484131
+
+Presentation: Field report: observing actual use of commercial cloud services by researchers
+https://player.vimeo.com/video/566484485
+
+Presentation: Running a cloud identity provider platform — technology is the easy part
+https://player.vimeo.com/video/566484914?controls=false
+
+Presentation: Securing our own lifeboats: implementing the GÉANT Security Baseline
+https://player.vimeo.com/video/566498522
+
+Presentation: Adding 4,000 cores to GRNET OpenStack cloud during lunch break
+https://player.vimeo.com/video/566503082
+
+Presentation: Our community supporting Copernicus
+https://player.vimeo.com/video/566503232
+
+Presentation: PARTAGE: The French R&E community on-premise pooled collaborative email solution
+https://player.vimeo.com/video/566503402
+
+Demonstration: NMaaS in a nutshell
+https://player.vimeo.com/video/566513098
+
+Demonstration: Experiments in Federation Sustainability
+https://player.vimeo.com/video/566513337
+
+Demonstration: A systems thinking approach to value-added services management in NRENs
+https://player.vimeo.com/video/566513678
+
+Sponsor workshop Huawei | Wednesday 23 June - part one
+https://player.vimeo.com/video/566517265
+
+Sponsor workshop: Huawei | Wednesday 23 June part two
+https://player.vimeo.com/video/566532007
+
+Presentation: A Higher Education Sector Architecture to protect public values
+https://player.vimeo.com/video/566589101
+
+Presentation: Establishment of new identity federations in Africa: the AfricaConnect3 perspective
+https://player.vimeo.com/video/566589305
+
+Presentation: Network Time Security - The (Winding) Path to Deployment
+https://player.vimeo.com/video/566589869
+
+
+# 23.6.2021
+
+
 
 
 
