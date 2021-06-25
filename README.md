@@ -206,20 +206,22 @@ https://player.vimeo.com/video/566982503
 Sponsor workshop: Microsoft - Modern research in the Cloud
 https://player.vimeo.com/video/567014262
 
-....stay tuned
+Uploaded recording 1790-tnc21: Brazil’s Connected Students project – inclusion and democratisation of access in challenging times
+https://player.vimeo.com/video/567052078
 
+Presentation: The evolution of eduroam
+https://player.vimeo.com/video/567052400
 
+Uploaded recording 1790-tnc21: Cresting the Wave of Collaboration and Surfing Towards a Cybersecure Future!
+https://player.vimeo.com/video/567052909
 
-
-
+Uploaded recording 1790-tnc21: Internet2’s NextGeneration Infrastructure: Terabit Scale and Enhanced Services
+https://player.vimeo.com/video/567058671
 
 
 
 # 25.6.2021
 ....stay tuned
-
-
-
 
 
 
