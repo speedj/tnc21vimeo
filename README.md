@@ -170,7 +170,49 @@ https://player.vimeo.com/video/566589869
 
 
 # 24.6.2021
-....stay tuned
+Presentation: A GUI to enable network troubleshooting with perfSONAR on-demand measurements
+https://player.vimeo.com/video/566955006
+
+Presentation: Safe AND Performant Networks? We want them both!
+https://player.vimeo.com/video/566955395
+
+Presentation: NRENs education landscape and the impact of COVID-19
+https://player.vimeo.com/video/566956007
+
+Presentation: CERN’s journey to Open Source
+https://player.vimeo.com/video/566956324
+
+Presentation: There’s plenty of programming space at the network data plane
+https://player.vimeo.com/video/566968656
+
+Presentation: Quantum Key Distribution
+https://player.vimeo.com/video/566968796
+
+Presentation: The role of the NRENs in supporting Open Science
+https://player.vimeo.com/video/566968994
+
+Presentation: SURFcumulus: the Next Wave
+https://player.vimeo.com/video/566973649
+
+Uploaded recording 1790-tnc21: Decentralized Collaborative Learning Networks
+https://player.vimeo.com/video/566982330
+
+Presentation: SOCTools: A set of tools fulfilling your SOC needs
+https://player.vimeo.com/video/566982411
+
+Demonstration: GÉANT P4 Lab
+https://player.vimeo.com/video/566982503
+
+Sponsor workshop: Microsoft - Modern research in the Cloud
+https://player.vimeo.com/video/567014262
+
+
+
+
+
+
+
+
 
 
 # 25.6.2021
